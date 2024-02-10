@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap");
+
+body {
+	background-color: #000000;
+  font-family: 'Sixtyfour', sans-serif;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.title {
+	color: #f72798;
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+.container{
+  display: grid;
+  place-items: center;
+  width: 50em;
+}
+
+.input{
+  width: 100%;
+  padding-block: .3em;
+  font-size: 1.5em;
+  margin-bottom: 1em;
+
+}
+.num-word{
+  color: aliceblue;
+  font-size: 2em;
+  font-weight: bolder;
+  word-wrap: break-word;
+  max-width: 100%;
+  line-height: 1.5;
+  max-height: 10em;
+  overflow-y: auto;
+}
+
+.small{
+  color: #EBF400;
+}
