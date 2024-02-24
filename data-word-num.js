@@ -1,4 +1,4 @@
-const numWords = {
+export const numWords = {
 	1: "One",
 	2: "Two",
 	3: "Three",
@@ -28,5 +28,5 @@ const numWords = {
 	90: "Ninety",
 };
 
-export default numWords
+
 

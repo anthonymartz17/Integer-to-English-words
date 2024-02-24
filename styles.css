@@ -33,8 +33,10 @@ body {
   word-wrap: break-word;
   max-width: 100%;
   line-height: 1.5;
-  max-height: 10em;
+  /* max-height: 7em; */
+  min-height: 2em;
   overflow-y: auto;
+
 }
 
 .small{
